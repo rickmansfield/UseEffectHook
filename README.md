@@ -1,4 +1,5 @@
 # REACT Advanced handling &  practice with essential REACT tools
+This project gave me the ability to practice and revisit
 - Side Effects useEffect(), 
 - State Management useReducer(), 
 - & Using Context API
