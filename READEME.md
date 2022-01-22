@@ -1,6 +1,9 @@
-# REACT Advanced Handling Side Effects, Using Reducer, & Using Context API
-Advanced practice with essential REACT tools
-- [REACT Advanced Handling Side Effects, Using Reducer, & Using Context API](#react-advanced-handling-side-effects-using-reducer--using-context-api)
+# REACT Advanced handling &  practice with essential REACT tools
+- Side Effects useEffect(), 
+- State Management useReducer(), 
+- & Using Context API
+
+- [REACT Advanced handling &  practice with essential REACT tools](#react-advanced-handling---practice-with-essential-react-tools)
   - [Working with (Side) Effects](#working-with-side-effects)
   - [Managing more Complex State with Reducers](#managing-more-complex-state-with-reducers)
   - [Managing App-Wide or Component-Wide State with Context](#managing-app-wide-or-component-wide-state-with-context)
